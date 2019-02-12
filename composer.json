@@ -1,0 +1,20 @@
+{
+    "name": "abedhamada/laravel_multi_lang",
+    "description": "Laravel Package allow model support  Multi-Languages fields.",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "languages",
+        "multilang"
+    ],
+    "homepage": "https://github.com/abedham/Laravel-MultiLang",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdelrahman",
+            "email": "abed.ha15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
